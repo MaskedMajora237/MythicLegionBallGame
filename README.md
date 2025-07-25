@@ -1,3 +1,3 @@
 # MythicLegionBallGame
 
-This Game Is Based Off Of and kind of Copied From the Game that Mythic Legion On Youtube had Made A Devlog on however He Only Made the one video and then Fell Off the Face of the Earth. So i decided to Pick Up the Slack and Do it Myself.
+This Game Is Based Off Of and kind of Copied From the Game that Mythic Legion On Youtube had Made A Devlog on however He Only Made the one video and then Fell Off the Face of the Earth. So i decided to Pick Up the Slack and Do it Myself. Now Mythic If you see this and you dont want me to continue feel free to dm me on discord  Megawire#4222 Maybe we can work together on it to be honest im just doing this as a first time video game developer. And i dont want to feel like i am hindering the progress of your Version. in fact if you want me to i can give you access to my version to pull scripts and stuff from.
